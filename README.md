@@ -57,5 +57,8 @@ KNN, Random Forest Classifier, and Decision Tree models were mainly used
 - Gradient boosting was used to measure accuracy as well
 - Undersampling was done through RandomUnderSampler to balance the number of samples in each class
 
+# Undersampled data
+All the classification models were used to further evaluate the data after resampling it. 
+
 # Data source
 https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?resource=download
