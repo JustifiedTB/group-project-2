@@ -58,7 +58,10 @@ KNN, Random Forest Classifier, and Decision Tree models were mainly used
 - Undersampling was done through RandomUnderSampler to balance the number of samples in each class
 
 # Undersampled data
-All the classification models were used to further evaluate the data after resampling it. 
+All the classification models (KNN, Decision Tree, and Random Forest Classifier) were used to further evaluate the data after resampling it. 
+
+# Confusion matrix
+a confusion matrix was built to illustrate the models' performance
 
 # Data source
 https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?resource=download
