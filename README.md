@@ -5,14 +5,14 @@ OSU Bootcamp: Group Project 2
 # Project overview
 Analyzing stars, galaxies, and quasars based on their characteristics
 
-alpha : Right Ascension angle 
-delta : Declination angle 
-u : Ultraviolet filter in the photometric system
-g : Green filter in the photometric system
-r : Red filter in the photometric system
-i : Near infrared filter in the photometric system 
-z : Infrared filter in the photometric system
-redshift : values based in the increase in wavelength
+- alpha : Right Ascension angle 
+- delta : Declination angle 
+- u : Ultraviolet filter in the photometric system
+- g : Green filter in the photometric system
+- r : Red filter in the photometric system
+- i : Near infrared filter in the photometric system 
+- z : Infrared filter in the photometric system
+- redshift : values based in the increase in wavelength
 
 # Data cleanup and preparation
 Columns that did not contain spectral characterstics were dropped, everything else was kept. 
